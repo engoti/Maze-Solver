@@ -20,6 +20,10 @@ Technical Details:
 
 Language: Python
 Dependencies: Pillow (PIL) for image generation
+
+To install the required dependencies,on your command-line run:
+pip install pillow
+
 Performance: Efficient pathfinding with minimal memory usage
 
 
