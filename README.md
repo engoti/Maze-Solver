@@ -1,4 +1,25 @@
 # Maze-Solver
+Maze Solver
+An AI-driven solution for navigating mazes
+
+Overview
+Maze Solver is a Python program that reads a maze from a text file and finds the shortest path from the start point (A) to the goal (B) using a depth-first search (DFS) approach. The program provides visual feedback of the solution and explored states, and saves an image of the maze with the solution path highlighted.
+
+Features
+Maze representation with walls, start (A), and goal (B)
+Exploration tracking to avoid loops
+Solution visualization with highlighted path
+Image output for the maze and solution
+Simple command-line interface
+Customization options for displaying explored paths and saving images
+
+Technical Details
+Language: Python
+Dependencies: Pillow (PIL) for image generation
+Performance: Efficient pathfinding with minimal memory usage
+
+
+
 How to Run this code;
 python maze.py maze1.txt
 or
