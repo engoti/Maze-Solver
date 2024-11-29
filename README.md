@@ -21,6 +21,10 @@ Customization options for displaying explored paths and saving images
 Technical Details:
 
 Language: Python
+
+![.py](imagesol/pillow.png)
+
+
 Dependencies: Pillow (PIL) for image generation
 
 To install the required dependencies,on your command-line run:
