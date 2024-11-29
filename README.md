@@ -38,14 +38,17 @@ python maze.py maze1.txt
 or
 
 python maze.py maze2.txt
+![Maze Solution](imagesol/solution2.JPG)
 
 or
 
 python maze.py maze3.txt
+![Maze Solution](imagesol/solution3.JPG)
 
 or
 
 python maze.py maze4.txt
+![Maze Solution](imagesol/solution4.JPG)
 
 incase you don't know how to run a python program visit my You-Tube Video;
 https://www.youtube.com/watch?v=LosNciLZ5xc
