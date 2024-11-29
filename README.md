@@ -33,7 +33,7 @@ Performance: Efficient pathfinding with minimal memory usage
 How to Run this code;
 
 python maze.py maze1.txt
-(Maze-Solver/solution1.JPG)
+
 
 
 or
